@@ -13,6 +13,8 @@ caching_matrix <- function(x = matrix()) {
          getInverse = getInverse)
 }
 
+#cacheSolve
+
 cacheSolve <- function(x, ...) {
     invy <- x$getinverse()
     if(!is.null(invy)) {
