@@ -1,4 +1,4 @@
-    makecachematrix us a list containing functions to
+    #makecachematrix us a list containing functions to
         ##              1. set the matrix
         ##              2. get the matrix
         ##              3. set the inverse
